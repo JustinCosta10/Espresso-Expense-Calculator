@@ -12,7 +12,7 @@ The build process is nothing out of the ordinary for a C++ application:
 
 Clone the Repository: Clone the repository to your local machine using the following command:
 
-git clone https://github.com/yourusername/espresso-expense-calculator.git
+git clone https://github.com/JustinCosta10/Espresso-Expense-Calculator
 
 Build the Application: Build the application using your preferred C++ compiler. For example, using clang:
 
