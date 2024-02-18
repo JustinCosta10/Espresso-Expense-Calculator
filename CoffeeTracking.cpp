@@ -111,7 +111,7 @@ void CoffeeTracking::DisplayOrders() // shows all current orders, what each pers
               << std::setw(20) << "Spending"
               << std::setw(20) << "Paid For Others"
               << "\n\n";
-    for (int i = 0; i < 7; i++)
+    for (int i = 0; i < Orders.size(); i++)
     {
         std::cout << std::left << i + 1 << ". " << std::setw(20) << Orders[i].name << "   "
                   << std::setw(20) << Orders[i].coffeeChoice << "   $"
