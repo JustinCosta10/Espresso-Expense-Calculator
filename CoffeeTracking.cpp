@@ -148,7 +148,7 @@ void CoffeeTracking::OrderCoffee() // orders coffee, updates the value for spend
         {
             for (int j = 0; j < SortingVector.size() - i - 1; ++j)
             {
-                if (SortingVector[j].orderCost < SortingVector[j + 1].orderCost) // Change the comparison logic
+                if (SortingVector[j].orderCost < SortingVector[j + 1].orderCost)
                 {
                     std::swap(SortingVector[j], SortingVector[j + 1]);
                 }
