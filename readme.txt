@@ -25,7 +25,7 @@ Any combination of names, orders and values could be put in and the program will
 
 
 The assumptions made while creating the program are as follows: 
-It is ran with 7 employees that do not change. Removing an employee from the sorting or adding a new one would unbalance the entire system.
+It is ran with an amount of employees that does not change. Removing an employee from the sorting or adding a new one would unbalance the entire system.
 There is not a specific ending point of the coffee tab and it continues infinitely.
 
 Getting Started
