@@ -1,5 +1,8 @@
 #pragma "CoffeeTracking.cpp"
 
+#include <vector>
+#include <string>
+
 class CoffeeTracking
 {
     public:
